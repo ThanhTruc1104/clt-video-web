@@ -24,6 +24,7 @@ def read_root():
         <body>
             <h1>Ứng dụng Mô phỏng Định lý Giới hạn Trung tâm</h1>
             <p>Ứng dụng đã hoạt động thành công trên Render!</p>
+            <img src="data:image/gif;base64,{gif_base64}" alt="Mô phỏng CLT">
         </body>
     </html>
     """
